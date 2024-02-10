@@ -1,7 +1,9 @@
 # Connect Four Game
 
 Final project from University course on C.
+
 Fully made in C.
+
 Your opponent plays using the Minimax algorithm.
 
 Game:
