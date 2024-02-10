@@ -234,7 +234,7 @@ int main(void){
         int player = ((cnt+1)%2)+1;
         int x = system("clear");
         color(player);
-        printf("Player #%d move\n\n", player);
+        printf("Player #%d\n\n", player);
         color(0);
         show();
         int col = 0;
